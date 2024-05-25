@@ -1,0 +1,30 @@
+/* my favorit css*/
+.middle-card{
+    min-height: 265px;
+}
+.outer-card{
+    min-height: 370px;
+}
+/* colors */
+.bg-primary{
+    background-color: #2a2446 !important;
+}
+.bg-secondary{
+    background-color: #c1ecf5 !important;
+}
+.bg-light{
+    background-color: #ffdca7 !important;
+}
+.bg-myGrayColor{
+    background-color: #292a2b;
+}
+/* background card */
+.bg-card1{
+    background-image: url(../images/1.jfif);
+}
+.bg-card2{
+    background-image: url(../images/4.jfif);
+}
+.bg-card3{
+    background-image: url(../images/3.jpg);
+}
